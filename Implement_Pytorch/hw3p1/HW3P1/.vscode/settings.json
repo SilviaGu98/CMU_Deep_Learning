@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./mytorch",
+        "./hw3"
+    ]
+}
